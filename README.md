@@ -3,7 +3,7 @@
 ##Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
   * Somma e media
-  * Quanti hanni ha?
+  * Quanti anni ha?
   * Conta il tempo
   * Gatti in fila
 
