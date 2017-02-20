@@ -8,6 +8,6 @@
           XXXXX
            XXX
             X
-  Hint: per andare indentare puoi usare il tab con '\t'.
+  Hint: per indentare puoi usare il tab con '\t'.
   http://www.imparareaprogrammare.it
 */
