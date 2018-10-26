@@ -1,4 +1,7 @@
 # Esercizi di programmazione gratuiti
+Qui troverai una serie di esercizi di programmazione divisi per argomento e difficoltà (facili, medi e difficili). Sono esercizi totalmente gratuiti che puoi risolvere, sia se sei un mio studente del [Corso di Programmazione: Programmatore perfetto](https://www.programmaconalberto.it/p/corso-di-programmazione-programmatore-perfetto), sia se non stai seguendo le mie lezioni ma vuoi semplicemente esercitarti. Ho pensato di pubblicarli gratuitamente, proprio per dare a tutti la possibilità di fare molta pratica, dato che **il modo migliore per imparare a programmare è proprio facendo pratica**.
+
+Goditi gli esercizi e... buona programmazione!
 
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
