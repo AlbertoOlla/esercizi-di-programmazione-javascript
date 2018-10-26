@@ -1,13 +1,13 @@
 # Esercizi di programmazione gratuiti
 
-##Esercizi su tipi di dato primari (stringhe e numeri)
+## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
   * Somma e media
   * Quanti anni ha?
   * Conta il tempo
   * Gatti in fila
 
-##Esercizi sulle condizioni (if e switch)
+## Esercizi sulle condizioni (if e switch)
 * **Facili**
   * Pari o Dispari?
   * Maggiore e minore
@@ -21,7 +21,7 @@
   * Fai il professore
   * La calcolatrice
   
-##Esercizi sui cicli (for, while e do-while)
+## Esercizi sui cicli (for, while e do-while)
 * **Facili**
   * Rincorri la decina
   * Ti ricordi le tabelline?
@@ -31,7 +31,7 @@
 * **Difficili**
   * Rombo che stampa!
   
-##Esercizi sulle array
+## Esercizi sulle array
 * **Facili**
   * Invertimi
   * Tanti numeri
@@ -42,7 +42,7 @@
   * Azzecca e azzera
   * Metti un po’ d’ordine
   
-##Esercizi sulle array multidimensionali
+## Esercizi sulle array multidimensionali
 * **Facili**
   * Procedi alla cieca
   * Le tabelline nel tabellone
@@ -52,7 +52,7 @@
 * **Difficili**
   * Righe o colonne?
   
-##Esercizi sulle funzioni
+## Esercizi sulle funzioni
 * **Facili**
   * La funzione banale
   * Primo e ultimo
@@ -69,7 +69,7 @@
   * Fai il sensitivo
   * I primi numeri… primi!
 
-##Esercizi sugli oggetti
+## Esercizi sugli oggetti
 * **Facili**
   * Un bel garage
   * Verifica la data
