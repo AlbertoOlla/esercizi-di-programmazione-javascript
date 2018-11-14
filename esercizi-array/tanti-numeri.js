@@ -1,6 +1,14 @@
 /*
   Tanti numeri
-  Scrivi un programma che dato un insieme di valori in un array, calcolai la media dei valori e restituisca in output tutti i valori minori della media.
+  Scrivi un programma che dato array di numeri, calcoli la media dei valori e
+  restituisca in output la media e tutti i valori minori della media.
+
+  Esempio:
+    Input: a = [3, 5, 10, 2, 8]
+    Output: media = 5.6, valori minori = [3, 5, 2]
+
+  Variante:
   Stampa anche quanti sono i valori monori della media e quanti quelli maggiori.
+
   http://www.imparareaprogrammare.it
 */

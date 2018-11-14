@@ -1,7 +1,9 @@
 /*
   Il sottosopra
-  Scrivi un programma che prenda in input un array multidimensionale e stampi in output la sua trasposta, in questo modo:
-    Input : 
+  Scrivi un programma che prenda in input un array multidimensionale e stampi in output la sua trasposta.
+
+  Esempio:
+    Input: 
       [
         [1, 2],
         [3, 4],

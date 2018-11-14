@@ -1,12 +1,21 @@
 /*
   Operazioni tra array
-  Scrivi un programma che dichiari 2 array di 10 elementi interi e li riempia con numeri casuali da 1 a 10.
-  Il programma prende in input dall'utente il tipo di operazione aritmetica da effettuare, una delle seguenti:
+  Scrivi un programma che dati:
+  - 2 array di 10 elementi interi casuali compresi tra 1 e 10,
+  - il tipo di operazione aritmetica da effettuare, una delle seguenti:
     addizione
     sottrazione
     moltiplicazione
     divisione
-  Ed esegue il calcolo tra ogni elemento dei due array salvando ciascun risultato in un terzo array di appoggio.
-  Hint: Per generare un numero casuale utlizza la funzione javascript random, che restituisce un intervallo compreso tra 0 e 1 che necessita di essere convertito per il tuo intervallo.
+  Esegua il calcolo tra ogni elemento dei due array, salvando ciascun risultato in un terzo array di appoggio.
+
+  Esempio:
+    Input: a = [3, 7, 2, 5, 8, 1, 2, 5, 6, 4], b = [9, 3, 1, 4, 7, 6, 5, 10, 1, 5], operazione = "addizione"
+    Output: c = [12, 10, 3, 9, 15, 7, 7, 15, 7, 9]
+
+  Consigli:
+  Se non ricordi come generare un numero random e come convertirlo nel tuo intervallo riguarda l'esercizio sulle condizioni "Chi l'azzecca?".
+
+
   http://www.imparareaprogrammare.it
 */

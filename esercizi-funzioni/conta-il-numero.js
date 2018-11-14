@@ -1,6 +1,6 @@
 /*
-  Il conta cifre
-  Scrivi un programma che dato un numero (massimo 9999) conti da quante cifre è formato.
+  Conta il numero
+  Scrivi una funzione che dato un numero intero (massimo 9999) conti da quante cifre è formato.
 
   Esempi:
     Input: numero = 9
@@ -9,5 +9,6 @@
     Input: numero = 245
     Output: 3 cifre
 
+    
   http://www.imparareaprogrammare.it
 */

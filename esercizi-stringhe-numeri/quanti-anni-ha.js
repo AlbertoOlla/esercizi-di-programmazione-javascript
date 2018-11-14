@@ -1,5 +1,13 @@
 /*
   Quanti anni ha?
-  Scrivi un programma che prenda in input un anno di nascita e determini l'età della persona, calcola anche quanti anni sono necessari per raggiungere i 100. Stampa in output entrambi i risultati.
+  Scrivi un programma che dato l'anno corrente e un anno di nascita determini:
+    - l'età della persona,
+    - quanti anni sono necessari per raggiungere i 100
+  Restituisca in output entrambi i risultati.
+
+  Esempio:
+    Input: anno corrente = 2018, anno di nascita = 1991
+    Ouput: età = 27, anni mancanti = 73
+
   http://www.imparareaprogrammare.it
 */

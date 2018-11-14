@@ -1,8 +1,14 @@
 /*
   Azzecca e azzera
-  Scrivi un programma che dichiari un array di 100 elementi interi e lo riempia con numeri casuali da 1 a 50.
-  Permetti all'utente di inserire una serie di numeri e azzera tutti i numeri nell'array principale che contengono un multiplo del numero inserito.
+  Scrivi un programma che dato un array di 100 elementi, lo riempia con numeri interi casuali da 1 a 50.
+  Permetti all'utente di inserire un numero e azzera tutti i gli elementi nell'array principale che sono suoi multipli.
+  Richiedi all'utente un altro numero e così via.
   Il programma termina quando tutti gli elementi dell'array principale sono uguali a zero.
-  Hint: Per generare un numero casuale utlizza la funzione javascript random, che restituisce un intervallo compreso tra 0 e 1 che necessita di essere convertito per il tuo intervallo.
+
+  Consigli:
+  Se non ricordi come generare un numero random e come convertirlo nel tuo intervallo riguarda l'esercizio sulle condizioni "Chi l'azzecca?".
+  Per richiedere un numero all'utente puoi usare il comando prompt(), se vuoi saperne di più puoi controllare nella
+  documentazione: https://developer.mozilla.org/it/docs/Web/API/Window/prompt
+
   http://www.imparareaprogrammare.it
 */
