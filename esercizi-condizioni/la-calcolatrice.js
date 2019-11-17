@@ -28,3 +28,8 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var n1 = 2;
+var n2 = 1;
+var quantity=n1+n2;
+console.log(quantity);
