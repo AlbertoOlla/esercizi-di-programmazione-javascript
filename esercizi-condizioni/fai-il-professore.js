@@ -18,3 +18,38 @@
 
   http://www.imparareaprogrammare.it
 */
+var voto=prompt();
+var giudizio=''
+if(voto>=18, voto<21){voto='a'};
+if(voto>=21, voto<24){voto='b'};
+if(voto>=24, voto<27){voto='c'};
+if(voto>=27, voto<29){voto='d'};
+if(voto>=30, voto<31){voto='e'};
+if(voto>=31){voto='f'};//valore alto
+if(voto<=17){voto='g'};//bocciato
+
+switch(voto){
+  case 'a':
+  giudizio='sufficiente';
+  break;
+  case 'b':
+  giudizio='buono';
+  break;
+  case 'c':
+  giudizio='distinto';
+  break;
+  case 'd':
+  giudizio='ottimo';
+  break;
+  case 'e':
+  giudizio='eccellente';
+  break;
+  case 'f':
+  giudizio='ma va ';
+  break;
+  case 'g'://se voto<18 non stampa il giuzio bocciato, ma sempre suff
+  giudizio='bocciato ';
+  break;
+  }
+
+console.log(giudizio);
