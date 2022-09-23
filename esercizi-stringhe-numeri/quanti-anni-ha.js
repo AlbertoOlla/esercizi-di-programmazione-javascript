@@ -11,3 +11,8 @@
 
   http://www.imparareaprogrammare.it
 */
+var anno_corrente = 2022
+var anno_nascita = 1980
+var età = anno_corrente - anno_nascita
+var quota_100 = 100 - età
+console.log(`età della persona ${età} e ne mancano ${quota_100} per raggiungere i 100 anni`);
