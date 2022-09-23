@@ -12,3 +12,8 @@
 
   http://www.imparareaprogrammare.it
 */
+secondi = 12560;
+hour = Math.floor(secondi / (60*60));
+minutes = Math.floor((secondi - (hour * 3600)) / 60);
+seconds = Math.floor((secondi - (hour * 3600))-(minutes*60));
+console.log(`${hour} ore ${minutes} minuti ${seconds} secondi`);
