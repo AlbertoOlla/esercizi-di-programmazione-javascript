@@ -18,3 +18,16 @@
 
   http://www.imparareaprogrammare.it
 */
+var v = 20
+if (v < 18)
+  console.log('insufficiente')
+  else if(v < 21)
+  console.log('sufficiente')
+  else if (v < 24)
+  console.log('buono')
+  else if (v < 27)
+  console.log('distinto')
+  else if (v <= 29)
+  console.log('ottimo')
+  else
+  console.log('eccellente');
