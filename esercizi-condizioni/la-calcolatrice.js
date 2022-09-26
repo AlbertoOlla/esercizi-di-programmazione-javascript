@@ -28,3 +28,31 @@
 
   http://www.imparareaprogrammare.it
 */
+var num1 = 49;
+var num2 = 24;
+var operazione = 'modulo';
+switch (operazione) {
+  case 'somma':
+    console.log(num1 + num2)
+    break;
+  case 'sottrazione':
+    console.log(num1 - num2)
+    break;
+  case 'moltiplicazione':
+    console.log(num1 * num2)
+    break;
+  case 'divisione':
+    console.log(num1/num2)
+    break;
+  case 'modulo':
+    console.log(num1 % num2)
+    break;
+  case 'potenza':
+    console.log(Math.pow(num1, num2))
+    break;
+  case 'media':
+    console.log((num1 + num2)/2)
+    break;
+  default:
+    console.log('Questa operazione non esiste');
+};
