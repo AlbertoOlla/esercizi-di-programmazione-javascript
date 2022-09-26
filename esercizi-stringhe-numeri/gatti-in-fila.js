@@ -17,3 +17,10 @@
 
   http://www.imparareaprogrammare.it
 */
+var gatti_in_fila = 6;
+var totale_gatti = 44;
+var file_totali = Math.ceil(totale_gatti/gatti_in_fila);
+var gatti_mancanti = file_totali*gatti_in_fila-totale_gatti;
+console.log(file_totali);
+console.log(gatti_mancanti);
+console.log(`${totale_gatti} gatti in fila per ${gatti_in_fila} con il resto di ${totale_gatti%gatti_in_fila} ne mancano ${gatti_mancanti} per completare la fila`);

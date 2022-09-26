@@ -11,3 +11,12 @@
 
   http://www.imparareaprogrammare.it
 */
+var numero = Math.floor(Math.random() * (9999-1) +1);
+var stringa = String(numero);
+console.log(numero);
+console.log(stringa.length);
+if (stringa.length=1) {
+  console.log(`${stringa.length} cifra`);
+}else {
+  console.log(`${stringa.length} cifre`);
+};

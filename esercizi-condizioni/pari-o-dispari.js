@@ -15,3 +15,6 @@
 
   http://www.imparareaprogrammare.it
 */
+var num = 31;
+var pari_o_dispari = num%2;
+console.log(pari_o_dispari);
